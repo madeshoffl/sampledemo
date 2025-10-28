@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-Hi, This is Mr Madesh A - Founder and CEO, BlueCorp. Ltd.
-=======
-hi this is madesh
->>>>>>> 6d953dd (feat : i dont know what i am doing)
+Hello everyone, this is Mr Madesh A
+Founder and CEO of BlueCorp. Ltd.
+If you see this in both git and github, 
+That means i mastered git and github
+atleast the basics
