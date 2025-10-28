@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi, This is Mr Madesh A - Founder and CEO, BlueCorp. Ltd.
+=======
+hi this is madesh
+>>>>>>> 6d953dd (feat : i dont know what i am doing)
